@@ -43,14 +43,6 @@
 
 ---
 
-## 🎯 Currently Working On
-
-- 🔭 Learning the basics of **HTML, CSS, and JavaScript**
-- 🧪 Practicing algorithms and problem solving with **Python** and **C++**
-- 🌐 Building my first **web project**
-
----
-
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-ProdByFarid-181717?style=flat&logo=github)](https://github.com/ProdByFarid)

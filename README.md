@@ -1,17 +1,6 @@
 <h1 align="center">Hi, I'm Farid 👋</h1>
 
-<p align="center">
-  <em>Building things with code, one commit at a time.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProdByFarid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ProdByFarid?style=flat&logo=github&label=Followers" alt="Followers" />
-</p>
-
 ---
-
-
 
 ## 🛠️ Tech Stack
 

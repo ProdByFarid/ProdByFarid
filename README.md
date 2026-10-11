@@ -1,4 +1,19 @@
-<h1 align="center">Hi, I'm Farid 👋</h1>
+<h2>Hello There, I'm Farid 👋</h1>
+
+🎓 Informatics Student @Universitas Mulawarman (Faculty of Engineering)  
+🌐 Interested in **Web Development**  
+📍 Samarinda, Indonesia  
+🎯 Goal: to build a website from scratch and see it through to completion  
+🎧 Outside of coding: Launchpad
+<br>
+
+<br>
+
+<p align="center">
+  <a href="https://ascii.web.id"><img src="https://ascii.web.id/api/badge/2509106087.svg?theme=light" alt="ASCII IF Lab" /></a>
+  <a href="https://ascii.web.id"><img src="https://ascii.web.id/api/badge/2509106087.svg?theme=light&type=role" alt="ASCII IF Lab" /></a>
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -19,8 +34,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -28,7 +41,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdByFarid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
----
+
 
 ## 📫 Let's Connect
 

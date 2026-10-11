@@ -41,14 +41,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdByFarid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-
-
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-ProdByFarid-181717?style=flat&logo=github)](https://github.com/ProdByFarid)
-[![Email](https://img.shields.io/badge/Email-emailme-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhamadfaridalmubarok2002@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-mhmdfaridal-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdfaridal/)
-
 <p align="center">
   <sub>⭐ Thanks for stopping by!</sub>
 </p>

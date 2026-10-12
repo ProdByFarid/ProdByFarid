@@ -1,4 +1,4 @@
-<h2>Hello There, I'm Farid 👋</h1>
+<h2>Hello There, I'm Parid 👋</h1>
 
 🎓 Informatics Student @Universitas Mulawarman (Faculty of Engineering)  
 🌐 Interested in **Web Development**  
